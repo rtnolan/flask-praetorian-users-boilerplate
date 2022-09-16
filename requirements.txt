@@ -10,7 +10,7 @@ flask-praetorian==1.0.0
 Flask-SQLAlchemy==2.4.1
 itsdangerous==1.1.0
 Jinja2==2.10.3
-Mako==1.1.0
+Mako==1.2.2
 MarkupSafe==1.1.1
 passlib==1.7.1
 pendulum==2.0.5
